@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "email": "cicotigoju@mailinator.com",
+      "password": "$2a$10$s2eVkv0b20/rzKGD607lxuU09OUHwyI814zoq8fzAqm4T/r3YUnDK",
+      "password2": "Pa$$w0rd!",
+      "id": 1
+    },
+    {
+      "email": "fysus@mailinator.com",
+      "password": "$2a$10$/2Sy4DyGZ4tUK/5wWiEf0erpMQ/HPDEtWnA5tzzflHaRwz0aFu4nG",
+      "password2": "Pa$$w0rd!",
+      "id": 2
+    },
+    {
+      "email": "byqiz@mailinator.com",
+      "password": "$2a$10$OdC7OgluwK.m11pO6bCPPOEsSfH5Xc0OpOwV8s8sHNufgMwGrClpC",
+      "password2": "Pa$$w0rd!3",
+      "id": 3
+    },
+    {
+      "email": "hyke@mailinator.com",
+      "password": "$2a$10$V901BryBCuMsdO0rS9p6rufeqM8z0w5QqUEkRT/B5pcpKbJzJQgk6",
+      "password2": "Pa$$w0rd!",
+      "id": 4
+    },
+    {
+      "email": "dymiveqety@mailinator.com",
+      "password": "$2a$10$0kh0wwtRob2zN6vVCGFj..9kKKKSUKK.8qQVNuMqEqfsDLt2UYJ0O",
+      "password2": "Pa$$w0rd!",
+      "id": 5
+    },
+    {
+      "email": "fuad@gmail.com",
+      "password": "$2a$10$jdgVTI8VKp9zJgwfhnkOsedviSOEdBT4p9MnjdyVUwKafFBUxM8t.",
+      "password2": "qwerty",
+      "id": 6
+    },
+    {
+      "email": "riqucu@mailinator.com",
+      "password": "$2a$10$veSKINgPsZ1GcmWzToakaunWA2mF8YNJzoG2VQYa0yxBDoKoHYKk.",
+      "password2": "Pa$$w0rd!",
+      "id": 7
+    },
+    {
+      "email": "cane@mailinator.com",
+      "password": "$2a$10$AFZmxC5vbQ06LUto5DMQKuuGndRlmN4VejoLtlCPG/qC9/Nl67D0.",
+      "password2": "Pa$$w0rd!",
+      "id": 8
+    },
+    {
+      "email": "potydukek@mailinator.com",
+      "password": "$2a$10$pmR9ZyAmTIRbkrMcM5aovumZgBfAbU8pvdMMwhRd/3BHnd6jVJuVO",
+      "password2": "Pa$$w0rd!",
+      "id": 9
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "note": "ini catatan pertama"
+    },
+    {
+      "id": 2,
+      "note": "ini catatan kedua"
+    }
+  ]
+}

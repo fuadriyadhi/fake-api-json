@@ -7,7 +7,7 @@ window.handleRegister = function (event) {
 
   let email = event.target.email.value;
   let password = event.target.password.value;
-  let password2 = event.target.password.value;
+  let password2 = event.target.password2.value;
 
   axios
     .post('https://vitejs-vite-v7vcde--3000.local.webcontainer.io/register', {
